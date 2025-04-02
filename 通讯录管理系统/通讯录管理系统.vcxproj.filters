@@ -18,49 +18,5 @@
     <ClCompile Include="语法基础综合.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="generally.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="previous.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Circle.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Point.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="链式调用.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="深拷贝与浅拷贝.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="先后顺序.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="多态.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="represent.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="面向对象综合.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="文件操作.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="多态test.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Circle.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="Point.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>

@@ -127,23 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Circle.cpp" />
-    <ClCompile Include="多态test.cpp" />
-    <ClCompile Include="文件操作.cpp" />
-    <ClCompile Include="面向对象综合.cpp" />
-    <ClCompile Include="represent.cpp" />
-    <ClCompile Include="多态.cpp" />
-    <ClCompile Include="先后顺序.cpp" />
-    <ClCompile Include="深拷贝与浅拷贝.cpp" />
-    <ClCompile Include="链式调用.cpp" />
-    <ClCompile Include="generally.cpp" />
-    <ClCompile Include="Point.cpp" />
-    <ClCompile Include="previous.cpp" />
     <ClCompile Include="语法基础综合.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Circle.h" />
-    <ClInclude Include="Point.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
